@@ -1,2 +1,4 @@
 # Tensorflow-Linear-Regression-Model
-Understanding tensforflow linear regression model
+Understanding Tensforflow Linear Regression Model
+
+#havent done the accuracy measurement
